@@ -1,6 +1,6 @@
 # plugin-helmet
 
-Add security HTTP headers with helmet module.
+Add security HTTP headers with helmet middleware.
 
 ## Install
 
