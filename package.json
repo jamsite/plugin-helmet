@@ -1,6 +1,6 @@
 {
   "name": "@jamsite/plugin-helmet",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Add security HTTP headers with helmet middleware.",
   "main": "index.js",
   "directories": {
